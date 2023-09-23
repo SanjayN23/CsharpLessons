@@ -1,0 +1,14 @@
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\bin\Debug\net6.0\FIRST_project.exe
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\bin\Debug\net6.0\FIRST_project.deps.json
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\bin\Debug\net6.0\FIRST_project.runtimeconfig.json
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\bin\Debug\net6.0\FIRST_project.dll
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\bin\Debug\net6.0\FIRST_project.pdb
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.AssemblyInfoInputs.cache
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.AssemblyInfo.cs
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.csproj.CoreCompileInputs.cache
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.dll
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\refint\FIRST_project.dll
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.pdb
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\FIRST_project.genruntimeconfig.cache
+C:\Users\sanjay.nagaraj\source\repos\FIRST_project\FIRST_project\obj\Debug\net6.0\ref\FIRST_project.dll
